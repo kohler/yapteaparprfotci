@@ -464,7 +464,7 @@ Options:\n\
   -o, --output FILE       Write output to FILE.\n\
   -C, --no-colorize       Do not colorize subsequent cat imagery.\n\
   -L, --no-lighten        Do not lighten subsequent cat imagery.\n\
-  -r, --rotate N          Rotate subsequent cat imagery buy up to +/-N degrees.\n\
+  -r, --rotate[=N]        Rotate subsequent cat imagery buy up to +/-N degrees.\n\
   -m, --maxcats N         Place at most N cat images [default 20].\n\
   -s, --seed S            Set random seed to S [default random].\n\
   -h, --help              Print this message and exit.\n\
